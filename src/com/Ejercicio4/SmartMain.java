@@ -1,4 +1,4 @@
-package Ejercicio4DeOpenBootcamp;
+package com.Ejercicio4;
 
 public class SmartMain {
 
